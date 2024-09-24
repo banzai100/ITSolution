@@ -13,7 +13,7 @@ FRAME_COUNT = int(FPS * DURATION)
 BACKGROUND_COLOR = (0, 128, 255)
 FONT_SIZE = 20
 TEXT_COLOR = (255, 255, 255)
-FONT_PATH = 'Arial.ttf'
+FONT_PATH = '/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf'
 font = ImageFont.truetype(FONT_PATH, FONT_SIZE)
 
 
